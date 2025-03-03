@@ -24,3 +24,6 @@ test.task()
 test.print(100)
 test.task()
 
+#Creating Object of Base Class
+a = Absclass()
+a.task()
